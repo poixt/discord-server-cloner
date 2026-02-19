@@ -73,7 +73,7 @@ python3 main.py
 
 ---
 
-## 🪟 Windows Setup
+##  Windows Setup
 
 ```bat
 :: Make sure Python is installed from https://python.org
