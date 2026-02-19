@@ -10,7 +10,7 @@
 
 ---
 
-## 📋 Requirements
+##  Requirements
 
 - Python 3.8 or higher
 - `discord.py-self` (NOT the regular `discord.py`)
@@ -132,6 +132,6 @@ python main.py
 
 ---
 
-## ⭐ Credits
+##  Credits
 
 Made by [poixt](https://github.com/poixt)
